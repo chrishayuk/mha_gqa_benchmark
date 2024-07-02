@@ -1,0 +1,14 @@
+Message content:
+helpfulness:0.35546875,correctness:0.44921875,coherence:2.765625,complexity:1.734375,verbosity:2.1875
+
+Detailed logprobs:
+helpfulness: 0.35546875
+correctness: 0.44921875
+coherence: 2.765625
+complexity: 1.734375
+verbosity: 2.1875
+
+Usage:
+Completion tokens: 1
+Prompt tokens: 2438
+Total tokens: 2439
